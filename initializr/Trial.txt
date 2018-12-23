@@ -1,0 +1,4 @@
+##Adding new files
+
+
+To try   how some commands like merge, pull work on github and local repository 
